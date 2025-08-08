@@ -1,7 +1,7 @@
 /* 1. CSS selector to style HTML tag */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
+    background-color: #30be13;
     margin: 0;
     padding: 0;
 }
@@ -9,7 +9,7 @@ body {
 /* 2. ID selector */
 #header-section {
     background-color: #4CAF50;
-    color: white;
+    color: black;
     padding: 20px;
     text-align: center;
 }
