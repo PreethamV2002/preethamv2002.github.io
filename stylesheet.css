@@ -1,4 +1,4 @@
-/* 1. CSS selector to style HTML tag */
+/* 1. this deals with the first css selctor this picks up all of the elements and styles them */
 body {
     font-family: Arial, sans-serif;
     background-color: #30be13;
@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-/* 2. ID selector */
+/* 2. id selector and we see this back in html */
 #header-section {
     background-color: #4CAF50;
     color: black;
@@ -14,15 +14,15 @@ body {
     text-align: center;
 }
 
-/* 3. Class selector */
+/* 3. class selector we used twice in html to style*/
 .intro-text {
     font-size: 18px;
     color: #333;
 }
 
-/* 4. Change <a> color on hover */
+/* 4. Change <a> color on hover and this is one of the requrimetns as by the number */
 a {
-    color: blue;
+    color: rgb(39, 211, 128);
     text-decoration: none;
 }
 a:hover {
