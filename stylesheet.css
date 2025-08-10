@@ -30,7 +30,7 @@ a:hover {
     color: rgb(208, 25, 169);
 }
 
-/* 5. Box model changes */
+/* 5. this handles the box model changes */
 .content-section {
     border: 2px solid #ccc;
     margin: 20px;
