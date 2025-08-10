@@ -25,8 +25,9 @@ a {
     color: rgb(39, 211, 128);
     text-decoration: none;
 }
-a:hover {
-    color: red;
+a:hover { 
+    /* this is where the color changes when hovering */
+    color: rgb(208, 25, 169);
 }
 
 /* 5. Box model changes */
